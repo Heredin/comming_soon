@@ -37,10 +37,10 @@ body {
   .container{
     width: 100%;
     max-width: 100%;
-   /* position:absolute; 
-   top: 10%;*/
-   top: 1%
+   position:absolute; 
+   top: 10%;
   } 
+  /*
   .grid{
     display:list-item;
     grid-template-columns: 33% 33% 33%;
@@ -62,7 +62,7 @@ line-height: 10em;
   display:none;
 }
 
-
+*/
 
   
  
